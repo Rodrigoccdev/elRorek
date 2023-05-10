@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Rodrigo Carreón 
-###Programmer and web developer
-
+Programmer and web developer
+##Skills:
 
 <!--
 **ElRorek/elRorek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
