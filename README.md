@@ -2,9 +2,7 @@
 Programmer and web developer
 ## Skills:
 
-## Contact:
-[[My WebSite]](http://rodrigoc.epizy.com/)
-[[Instagram]](https://www.instagram.com/rodrigo_carreonm/)
+
 
 <div align="center">
 <h1 align="center">Hola👋, soy <a href="http://rodrigoc.epizy.com">Rodrigo Carreón </a> 👋</h1>
@@ -66,6 +64,9 @@ Programmer and web developer
 </div>
 <br>
 
+## Contact:
+[[My WebSite]](http://rodrigoc.epizy.com/)
+[[Instagram]](https://www.instagram.com/rodrigo_carreonm/)
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
