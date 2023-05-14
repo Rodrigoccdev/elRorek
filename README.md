@@ -1,9 +1,3 @@
-# Hi there 👋, my name is Rodrigo Carreón 
-
-## Skills:
-
-
-
 <div align="center">
 <h1 align="center">Hola👋, soy <a href="http://rodrigoc.epizy.com">Rodrigo Carreón </a> 👋</h1>
 <h2 align="center">Programmer and web developer</h2> 
@@ -24,6 +18,7 @@
 - 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
 - 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
 <br>
+##Skils:
 
 ## Proyectos *bombitas*
 <table>
