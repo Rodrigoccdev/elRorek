@@ -1,4 +1,4 @@
-#### Hi there 👋, my name is Rodrigo Carreón 
+# Hi there 👋, my name is Rodrigo Carreón 
 Programmer and web developer
 ## Skills:
 
