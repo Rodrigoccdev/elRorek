@@ -20,7 +20,7 @@
 <br>
 
 ## Skils:
-
+<!--
 ## Proyectos *bombitas*
 <table>
 <tr>
@@ -60,7 +60,7 @@
 </table>                                                                                 
 </div>
 <br>
-
+-->
 ## Contact:
 [[My WebSite]](http://rodrigoc.epizy.com/)
 [[Instagram]](https://www.instagram.com/rodrigo_carreonm/)
