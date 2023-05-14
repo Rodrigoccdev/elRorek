@@ -1,11 +1,12 @@
 # Hi there 👋, my name is Rodrigo Carreón 
-Programmer and web developer
+
 ## Skills:
 
 
 
 <div align="center">
 <h1 align="center">Hola👋, soy <a href="http://rodrigoc.epizy.com">Rodrigo Carreón </a> 👋</h1>
+<h2 align="center">Programmer and web developer</h2> 
 </div>
 <!--<img src="https://i.imgur.com/weNbhGZ.png">-->
 
