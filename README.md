@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" background-image:url(fragmento-codigo-html4.jpg)>
 <h1 align="center">Hola👋, soy <a href="http://rodrigoc.epizy.com">Rodrigo Carreón </a> 👋</h1>
 <h2 align="center">Programmer and web developer</h2> 
 </div>
