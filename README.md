@@ -18,7 +18,8 @@
 - 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
 - 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
 <br>
-##Skils:
+
+## Skils:
 
 ## Proyectos *bombitas*
 <table>
